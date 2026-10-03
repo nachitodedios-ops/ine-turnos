@@ -97,5 +97,3 @@ with tab_operador:
             st.write(f"**{idx+1}.** Turno #{t['id']} - {t['nombre']} ({t['tramite']})")
     else:
         st.write("*Fila vacía*")
-Usa el código con precaución.
-Avísame cuando hayas guardado el archivo app.py con este código para darte las instrucciones breves de cómo crear el segundo archivo (requirements.txt).
